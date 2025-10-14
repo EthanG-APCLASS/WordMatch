@@ -14,6 +14,5 @@ public class Main
         System.out.println(p.scoreGuess("aabb"));
         System.out.println(p.scoreGuess("c"));
         WordMatch game = new WordMatch("concatenation");
-
     }
 }
